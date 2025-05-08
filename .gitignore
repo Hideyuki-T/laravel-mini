@@ -1,0 +1,16 @@
+# Laravel-mini: artisan最小生成環境用
+/vendor/
+.env
+.env.*
+*.log
+*.lock
+
+# IDE/エディタ
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# OS関連
+Thumbs.db
+ehthumbs.db
